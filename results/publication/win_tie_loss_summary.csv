@@ -1,0 +1,4 @@
+candidate,clearly_better_gt_0_02,approximately_tied,clearly_worse_lt_minus_0_02,better_any_amount,worse_any_amount,mean_difference,median_difference
+siglip2_frozen,51,51,18,76,44,0.05636036432107722,0.009628623723983765
+siglip2_partial,55,45,20,78,42,0.06312882818351621,0.014910290638605772
+siglip2_full,59,52,9,95,25,0.08318412010938361,0.019510775804519653

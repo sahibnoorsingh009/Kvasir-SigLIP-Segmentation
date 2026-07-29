@@ -1,0 +1,21 @@
+{
+  "loss": 0.128366219997406,
+  "mean_dice": 0.8756523421655099,
+  "std_dice": 0.15528248790221838,
+  "median_dice": 0.931399792432785,
+  "mean_iou": 0.8044410875687996,
+  "std_iou": 0.18923951629387267,
+  "median_iou": 0.8716074228286743,
+  "mean_precision": 0.9001618179182211,
+  "std_precision": 0.14336638030773602,
+  "median_precision": 0.9452514052391052,
+  "mean_recall": 0.8935806459436814,
+  "std_recall": 0.16822434740905762,
+  "median_recall": 0.9581154882907867,
+  "mean_specificity": 0.9842467218637466,
+  "std_specificity": 0.03157624247485603,
+  "median_specificity": 0.9928137362003326,
+  "global_dice": 0.8783145655279712,
+  "global_iou": 0.7830310874468962,
+  "failure_rate_dice_lt_0_10": 0.0
+}

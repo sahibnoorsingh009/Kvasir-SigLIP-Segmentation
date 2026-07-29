@@ -1,0 +1,22 @@
+{
+  "image_files_discovered": 1000,
+  "mask_files_discovered": 1000,
+  "audited_ids": 1000,
+  "valid_pairs": 1000,
+  "invalid_pairs": 0,
+  "shape_mismatches": 0,
+  "empty_masks": 0,
+  "full_masks": 0,
+  "foreground_fraction_mean": 0.15390989411452588,
+  "foreground_fraction_median": 0.11400724156702018,
+  "split_sizes": {
+    "internal_train": 792,
+    "internal_val": 88,
+    "official_test": 120
+  },
+  "split_overlaps": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  }
+}

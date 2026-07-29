@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Dataset
+data/
+datasets/
+*.tar
+*.tar.gz
+*.zip
+
+# Large model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Logs and temporary files
+*.log
+nohup.out
+tmp/
+results/tmp*
+wandb/
+
+# Large raw predictions and generated artifacts
+results/predictions/*.csv
+results/regression_visualizations/.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

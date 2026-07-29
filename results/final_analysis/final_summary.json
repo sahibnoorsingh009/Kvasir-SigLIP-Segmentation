@@ -1,0 +1,25 @@
+{
+  "n_test_images": 120,
+  "resunet_mean_dice": 0.818149973070584,
+  "resunet_dice_ci": [
+    0.782547173009731,
+    0.8508282514486397
+  ],
+  "siglip2_full_mean_dice": 0.9013340931799677,
+  "siglip2_full_dice_ci": [
+    0.8743229953034056,
+    0.9248460002553961
+  ],
+  "full_vs_resunet_dice_difference": 0.08318412010938361,
+  "full_vs_resunet_difference_ci": [
+    0.05458727918712854,
+    0.11467708759618482
+  ],
+  "full_vs_resunet_permutation_p": 9.999000099990002e-05,
+  "practical_threshold_met": true,
+  "lesion_size_thresholds": {
+    "threshold_source": "official training masks",
+    "small_upper": 0.07843774883144196,
+    "medium_upper": 0.16935660006476927
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "threshold_source": "official training masks",
+  "small_upper": 0.07843774883144196,
+  "medium_upper": 0.16935660006476927
+}
