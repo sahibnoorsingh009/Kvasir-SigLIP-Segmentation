@@ -162,3 +162,9 @@ Full SigLIP2 improved mean Dice over ResUNet by 0.0832.
 | Large | 0.7985 | 0.8918 | +0.0934 |
 
 Detailed tables are available under `results/publication/`.
+
+## Pretrained checkpoints
+
+The trained ResUNet and SigLIP2 checkpoints are available on Hugging Face:
+
+`Sahibnoor1/kvasir-siglip2-segmentation-checkpoints`
