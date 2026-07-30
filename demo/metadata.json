@@ -1,0 +1,26 @@
+{
+  "cju13hp5rnbjx0835bf0jowgx": {
+    "title": "Major SigLIP2 improvement",
+    "description": "ResUNet nearly fails while SigLIP2 recovers the lesion."
+  },
+  "cju16whaj0e7n0855q7b6cjkm": {
+    "title": "Large-polyp improvement",
+    "description": "Large-lesion example with a strong SigLIP2 gain."
+  },
+  "cju14pxbaoksp0835qzorx6g6": {
+    "title": "Small-polyp improvement",
+    "description": "Small lesion with improved SigLIP2 localization."
+  },
+  "ck2bxw18mmz1k0725litqq2mc": {
+    "title": "Major regression",
+    "description": "A regression where ResUNet outperforms SigLIP2."
+  },
+  "cju87xn2snfmv0987sc3d9xnq": {
+    "title": "Over-segmentation regression",
+    "description": "SigLIP2 includes surrounding mucosa."
+  },
+  "cju32srle1xfq083575i3fl75": {
+    "title": "Approximately tied",
+    "description": "An easy case where both models are similar."
+  }
+}

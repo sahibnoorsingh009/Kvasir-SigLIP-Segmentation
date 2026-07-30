@@ -39,3 +39,15 @@ results/regression_visualizations/.ipynb_checkpoints/
 .DS_Store
 .vscode/
 .idea/
+
+# Demo runtime files
+checkpoints/
+data/
+demo.log
+*.log
+__pycache__/
+*.pyc
+.gradio/
+.cache/
+Kvasir-SigLIP-Live-Demo.zip
+Kvasir-SigLIP-Live-Demo-Files/
